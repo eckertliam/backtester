@@ -1,0 +1,6 @@
+.idea
+data
+.DS_Store
+backtester.egg-info
+backtester/__pycache__
+build
